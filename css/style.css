@@ -224,7 +224,7 @@ blockquote {
   margin-top: 30px;
   margin-bottom: 30px;
   background: #FFC107;
-  color: #191923;
+  color: #192223;
   padding: 30px;
   padding-left: 35px;
   font-weight: 400;
@@ -303,7 +303,7 @@ link
 }
 .art-link:hover {
   color: #fafafc;
-  text-shadow: 0 0 3px rgba(250, 250, 252, 0.4);
+  text-shadow: 0 0 3px rgba(0, 0, 202, 0.4);
 }
 .art-link.art-white-link {
   color: #fafafc;
