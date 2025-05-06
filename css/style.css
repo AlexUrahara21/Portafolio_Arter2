@@ -1025,7 +1025,7 @@ info bar
   right: 5px;
   height: 15px;
   width: 15px;
-  background: #FFC107;
+  background: #07ff6e;
   border-radius: 50%;
   z-index: 0;
   -webkit-transition: 0.4s ease-in-out;
@@ -1033,15 +1033,15 @@ info bar
 }
 .art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp:after {
   position: relative;
-  content: 'I am available for freelance hire';
-  width: 115px;
+  content: 'Estoy disponible para trabajar como freelancer';
+  width: 169px;
   display: block;
-  padding: 5px 10px;
+  padding: 6px 12px;
   top: -10px;
   left: 28px;
   font-size: 10px;
   font-weight: 200;
-  color: #8c8c8e;
+  color: #fffcf2;
   -webkit-box-shadow: 0 1px 4px 0 rgba(15, 15, 20, 0.1);
           box-shadow: 0 1px 4px 0 rgba(15, 15, 20, 0.1);
   background: #191923;
@@ -1453,7 +1453,7 @@ menu bar
   transition: 0.4s ease-in-out;
 }
 .art-menu-bar .art-language-change li.art-active-lang {
-  background-color: #FFC107;
+  background-color: #1cff07;
   -webkit-box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
           box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
 }
